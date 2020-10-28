@@ -3,7 +3,7 @@ network scanner (Python3 and Nmap)
 # This is  nmap "Automation" tool
 
 
- 
+
 ##########################################
 
 
@@ -24,7 +24,5 @@ The Requirements libraries must be available in your device
 
 ## Install  libraries 
 
-```
-pip install nmap
-``` 
+```pip install nmap ```
 
